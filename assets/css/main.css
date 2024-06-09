@@ -1,0 +1,160 @@
+html, body {
+    overflow-x: hidden;
+    max-width: 100%;
+    font-family: nunito;
+}
+
+.table-header {
+    border: 1px solid #ced4a4;
+}
+
+.table-header-top-left-corner {
+    border: 1px solid #ced4a4;
+    border-radius: 10px 0px 0px;
+}
+
+.table-header-top-right-corner {
+    border: 1px solid #ced4a4;
+    border-radius: 0px 10px 0px 0px;
+}
+
+.table-header-bottom {
+    border: 1px solid #ced4a4;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.nav-color {
+    color: #F15858;
+}
+
+.nav-color:hover {
+    color: #F15858;
+}
+
+.nav-2-color {
+    color: #717171;
+}
+
+.nav-top {
+    border-bottom: 2px solid #cdcdcd;
+}
+
+.nav-content {
+    border-bottom: 4px solid #F7F8FB;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+h3 {
+    color: #454545;
+    font-weight: 600;
+}
+
+.active {
+    border-bottom: 3px solid #2775EC;
+    color: #2775EC;
+    font-weight: 600;
+}
+
+.for-searchbar, .for-export-btn {
+    position: absolute;
+    right: 30px;
+}
+
+.btn-tambah-kegiatan {
+    background-color: #F0F6FF;
+    color: #2775EC;
+}
+
+.btn-filter {
+    border: 1px solid #ced4a4;
+    color: #F15858;
+}
+
+.btn-custom {
+    border: 1px solid #ced4a4;
+    color: #F15858;
+    width: 25px;
+    height: 25px;
+}
+
+.btn-custom i {
+    font-size: 14px;
+}
+
+.btn-batalkan {
+    background-color: #F0F6FF;
+    color: #2775EC;
+    width: 100%;
+}
+
+.btn-simpan {
+    color: #fff;
+    background-color: #2775EC;
+    border-color: #2775EC;
+    width: 100%;
+}
+
+.btn-hapus-filter, .btn-kembali {
+    color: #F15858;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+.btn-terapkan, .btn-simpan-modal {
+    color: #fff;
+    background-color: #F15858;
+    border-color: #F15858;
+}
+
+.input-group-text {
+    background-color: #ffffff;
+    color: #ced4a4;
+}
+
+section {
+    background-color: #F7F8FB;
+    height: 100vh;
+}
+
+.bg-grey {
+    background-color: #F7F8FB;
+}
+
+.text-light-2 {
+    color: #717171;
+}
+
+.text-red {
+    color: red;
+}
+
+section .col-12 {
+    border-radius: 10px;
+}
+
+.br-un {
+    border-radius: unset !important;
+}
+
+.total-data {
+    color: #2775EC;
+}
+
+#halaman-pengaturan {
+    padding: 100px 300px 0px 300px;
+}
+
+.br-10 {
+    border-radius: 10px;
+}
